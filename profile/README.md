@@ -1,4 +1,7 @@
 # Google Developer Student Clubs (GDSC) at Gombe State University
+
+![logo](https://github.com/GDSC-GSU/.github/assets/57603839/8b653891-5e08-4387-873e-03b552ffd53d)
+
  
 ## 🙋‍♀️ About Us:
 We're GDSC Gombe State University, a vibrant student community passionate about all things tech! Join us on GitHub as we collaborate on exciting open-source projects, learn from each other, and make a real impact in our local and global tech ecosystem.
