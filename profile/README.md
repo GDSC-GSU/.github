@@ -1,5 +1,3 @@
-# Google Developer Student Clubs (GDSC) at Gombe State University
-
 ![logo](https://github.com/GDSC-GSU/.github/assets/57603839/8b653891-5e08-4387-873e-03b552ffd53d)
 
  
